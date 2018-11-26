@@ -1,0 +1,31 @@
+# Python
+*.log*
+*.pyc
+*~
+*.egg*
+
+# Django
+/templates
+/static
+*.pid
+/media
+
+# Eclipse
+.project
+.pydevproject
+.metadata
+
+# PyCharm：
+/.idea
+
+# Virtualenv
+.venv/
+venv/
+ENV/
+
+# MacOS：
+.DS_Store
+/.settings/
+
+# database
+*.sqlite3
